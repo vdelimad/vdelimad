@@ -1,1 +1,1 @@
-Hello! My name is Victor De Lima. I'm a student interested in machine learning algorithms research, particularly in improving model performance in real-world applications, enhancing interpretability, and optimizing the trade-offs between quality, time, and cost. I am currently pursuing an M.S. in Data Science at Georgetown University.
+I enjoy developing and optimizing computational algorithms. I am currently pursuing a Ph.D. in Computer Science at Georgetown University.
