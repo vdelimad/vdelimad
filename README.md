@@ -1,1 +1,1 @@
-I like developing and optimizing computational algorithms. I am currently pursuing a Ph.D. in Computer Science at Georgetown University.
+I am currently pursuing a Ph.D. in Computer Science at Georgetown University, advised by Grace Hui Yang. My research focuses on the development and optimization of computational methods in information retrieval and conversational agents.
